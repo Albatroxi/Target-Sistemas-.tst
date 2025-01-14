@@ -1,0 +1,6 @@
+@Luiz_Pereira_HostAddress = http://localhost:5265
+
+GET {{Luiz_Pereira_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
