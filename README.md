@@ -19,10 +19,10 @@ Este projeto é uma **API RESTful** desenvolvida para a finalidade exclusiva da 
   - Validação de dados com filtro de dias igual ou maior que 0.
   - Receber dados de faturamento em json.
   - Calcular valores de faturamento em dias de:
-            Maior valor de faturamento ocorrido em um dia do mês;
-            Menor valor de faturamento ocorrido em um dia do mês;
-            Média mensal;
-            Número de dias acima da média;
+            - Maior valor de faturamento ocorrido em um dia do mês;
+            - Menor valor de faturamento ocorrido em um dia do mês;
+            - Média mensal;
+            - Número de dias acima da média;
             
 - **Percentual**:
 
