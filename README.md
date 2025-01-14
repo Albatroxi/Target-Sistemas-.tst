@@ -31,6 +31,12 @@ Este projeto é uma **API RESTful** desenvolvida para a finalidade exclusiva da 
   - Calcular o Percentual de cada estado.
 ---
 
+- **Inversor**:
+
+  - Validação de dados com valor não nulo.
+  - Inverter o texto digitado.
+---
+
 - **Backend**:
 
   - Linguagem: **C#**
