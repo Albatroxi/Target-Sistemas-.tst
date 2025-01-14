@@ -29,7 +29,6 @@ Este projeto é uma **API RESTful** desenvolvida para a finalidade exclusiva da 
   - Validação de dados com valor maior que 0.
   - Calcular o valor total.
   - Calcular o Percentual de cada estado.
----
 
 - **Inversor**:
 
